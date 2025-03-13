@@ -1,0 +1,110 @@
+{
+  "livros": [
+    {
+      "titulo": "Raz�o e Sensibilidade",
+      "autor": {
+        "nome": "Jane Austen",
+        "nacionalidade": "Desconhecida"
+      },
+      "anoPublicacao": 1811,
+      "isbn": "978-6587817361",
+      "disponivel": true
+    },
+    {
+      "titulo": "A��car de Melancia",
+      "autor": {
+        "nome": "Richard Brautigan",
+        "nacionalidade": "Desconhecida"
+      },
+      "anoPublicacao": 1968,
+      "isbn": "978-8503012812",
+      "disponivel": true
+    },
+    {
+      "titulo": "Tudo � rio",
+      "autor": {
+        "nome": "Carla Madeira",
+        "nacionalidade": "Brasileira"
+      },
+      "anoPublicacao": 2014,
+      "isbn": "978-6555871784",
+      "disponivel": true
+    },
+    {
+      "titulo": "Clube do Livro dos Homens",
+      "autor": {
+        "nome": "Lyssa Kay Adams",
+        "nacionalidade": "Americana"
+      },
+      "anoPublicacao": 2021,
+      "isbn": "978-6555650655",
+      "disponivel": true
+    },
+    {
+      "titulo": "Dr�cula",
+      "autor": {
+        "nome": "Bram Stoker",
+        "nacionalidade": "Irland�s"
+      },
+      "anoPublicacao": 1897,
+      "isbn": "978-6555520002",
+      "disponivel": true
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Jane Austen",
+      "nacionalidade": "Desconhecida"
+    },
+    {
+      "nome": "Richard Brautigan",
+      "nacionalidade": "Desconhecida"
+    },
+    {
+      "nome": "Jane Austen",
+      "nacionalidade": "Americana"
+    },
+    {
+      "nome": "Richard Brautigan",
+      "nacionalidade": "Americano"
+    },
+    {
+      "nome": "Carla Madeira",
+      "nacionalidade": "Brasileira"
+    },
+    {
+      "nome": "Lyssa Kay Adams",
+      "nacionalidade": "Americana"
+    },
+    {
+      "nome": "Bram Stoker",
+      "nacionalidade": "Irland�s"
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Larissa",
+      "email": "larissa@email.br"
+    },
+    {
+      "nome": "Vit�ria",
+      "email": "vitoria@email.br"
+    },
+    {
+      "nome": "No�mi",
+      "email": "noemi@email.br"
+    },
+    {
+      "nome": "Vessoni",
+      "email": "vessoni@email.br"
+    },
+    {
+      "nome": "Joaquim",
+      "email": "joaquim@email.com"
+    },
+    {
+      "nome": "Camilo",
+      "email": ""
+    }
+  ]
+}
