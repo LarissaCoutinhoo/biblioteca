@@ -4,7 +4,7 @@
       "titulo": "Raz�o e Sensibilidade",
       "autor": {
         "nome": "Jane Austen",
-        "nacionalidade": "Desconhecida"
+        "nacionalidade": "Inglesa"
       },
       "anoPublicacao": 1811,
       "isbn": "978-6587817361",
@@ -14,14 +14,14 @@
       "titulo": "A��car de Melancia",
       "autor": {
         "nome": "Richard Brautigan",
-        "nacionalidade": "Desconhecida"
+        "nacionalidade": "Americano"
       },
       "anoPublicacao": 1968,
       "isbn": "978-8503012812",
       "disponivel": true
     },
     {
-      "titulo": "Tudo � rio",
+      "titulo": "Tudo � Rio",
       "autor": {
         "nome": "Carla Madeira",
         "nacionalidade": "Brasileira"
@@ -54,15 +54,7 @@
   "autores": [
     {
       "nome": "Jane Austen",
-      "nacionalidade": "Desconhecida"
-    },
-    {
-      "nome": "Richard Brautigan",
-      "nacionalidade": "Desconhecida"
-    },
-    {
-      "nome": "Jane Austen",
-      "nacionalidade": "Americana"
+      "nacionalidade": "Inglesa"
     },
     {
       "nome": "Richard Brautigan",
@@ -84,19 +76,19 @@
   "usuarios": [
     {
       "nome": "Larissa",
-      "email": "larissa@email.br"
+      "email": "larissa@email.com"
     },
     {
       "nome": "Vit�ria",
-      "email": "vitoria@email.br"
+      "email": "vitoria@email.com"
     },
     {
       "nome": "No�mi",
-      "email": "noemi@email.br"
+      "email": "noemi@email.com"
     },
     {
       "nome": "Vessoni",
-      "email": "vessoni@email.br"
+      "email": "vessoni@email.com"
     },
     {
       "nome": "Joaquim",
@@ -104,7 +96,7 @@
     },
     {
       "nome": "Camilo",
-      "email": ""
+      "email": "camilo@email.com"
     }
   ]
 }
