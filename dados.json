@@ -49,6 +49,16 @@
       "anoPublicacao": 1897,
       "isbn": "978-6555520002",
       "disponivel": true
+    },
+    {
+      "titulo": "O Colecionador",
+      "autor": {
+        "nome": "John Fowles",
+        "nacionalidade": "Ingl�s"
+      },
+      "anoPublicacao": 1963,
+      "isbn": "978-8594541086",
+      "disponivel": true
     }
   ],
   "autores": [
@@ -71,6 +81,10 @@
     {
       "nome": "Bram Stoker",
       "nacionalidade": "Irland�s"
+    },
+    {
+      "nome": "John Fowles",
+      "nacionalidade": "Ingl�s"
     }
   ],
   "usuarios": [
@@ -97,6 +111,10 @@
     {
       "nome": "Camilo",
       "email": "camilo@email.com"
+    },
+    {
+      "nome": "Edda",
+      "email": "edda@email.com"
     }
   ]
 }
